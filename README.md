@@ -1,2 +1,2 @@
-# web-api-go-chi-mongodb
-Web App and REST API powered by Go, Chi, Docker and MongoDB
+# web-api-fastify-mongodb
+Web App and REST API powered by Fastify, Docker and MongoDB
